@@ -1,6 +1,6 @@
 # FCM Push Server
 
-Spring Boot 기반으로 만든 학습용 백엔드 프로젝트입니다. MySQL에 사용자 정보를 저장하고, 회원가입과 로그인 API를 제공하며, Firebase Cloud Messaging을 통해 특정 디바이스 토큰으로 푸시 알림을 전송할 수 있습니다.
+Spring Boot 기반으로 만든 대학교 팀 과제용 화재 감지 AI 시스템 백엔드 서버입니다. MySQL에 사용자 정보를 저장하고, 회원가입과 로그인 API를 제공하며, Firebase Cloud Messaging을 통해 특정 디바이스 토큰으로 푸시 알림을 전송할 수 있습니다.
 
 프로젝트 이름은 `FCM-Push-Server`이지만, 실제 패키지 구조는 `user_management`이며 사용자 관리 API와 푸시 알림 API를 함께 다룹니다.
 
